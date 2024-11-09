@@ -27,9 +27,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-dmr94j8c(-mkj2b0f-p5tf@ad@!yk-v$n#ngsg=n3@w$e=1mvc"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wattthetrade.onrender.com']
 
 
 # Application definition
