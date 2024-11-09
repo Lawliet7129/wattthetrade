@@ -1,7 +1,9 @@
 import os
 import sys
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'energy_trading.energy_trading.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "energy_trading.core.settings")
+
+
 
 
 
